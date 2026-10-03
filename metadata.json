@@ -1,0 +1,6 @@
+{
+  "name": "Charu AI OS",
+  "description": "Advanced AI operating system for Android that interprets voice commands and converts them into precise Accessibility Controller instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

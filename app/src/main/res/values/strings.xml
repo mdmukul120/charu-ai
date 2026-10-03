@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Charu AI OS</string>
+    <string name="accessibility_service_description">Charu AI Operating System Controller executes interpreted voice and automation actions such as opening apps, clicking buttons, typing text, and system navigation.</string>
+    <string name="charu_status_active">SYSTEM ONLINE</string>
+    <string name="charu_status_ready">CHARU OS READY</string>
+    <string name="charu_mic_listening">LISTENING FOR DIRECTIVE…</string>
+    <string name="charu_processing">SYNTHESIZING EXECUTION PLAN…</string>
+</resources>
